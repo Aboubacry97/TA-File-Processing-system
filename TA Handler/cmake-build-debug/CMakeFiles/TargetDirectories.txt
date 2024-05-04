@@ -1,0 +1,3 @@
+/Users/abou/Desktop/TA Handler/cmake-build-debug/CMakeFiles/Filtering_TA_Files.dir
+/Users/abou/Desktop/TA Handler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/abou/Desktop/TA Handler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
